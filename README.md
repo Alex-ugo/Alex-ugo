@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Alex-ugo
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML and Javascript
-- 💞️ I’m looking to collaborate on solving digital problems in our society 
-- 📫 How to reach me? Message me on twitter @Spearnation10
-
-<!---
-Alex-ugo/Alex-ugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Group 5
+Ugochukwu Alexander Chibueze 20201229042
+Nwaonu Fortune Somtochukwu 20212296572
+ Nkemdirem Edward .N. 20212304172
+ Chukwuneke Righteousness  O. 20212269252
+ Duru Anointed Adirimchi 2021239812
+ Samuel Sweet Owei 20201223382
+ Onyekwere Joel Chinaza 20201212912
+ Nwokafor Netochukwu 20201253322
+ Okenyi Eze Emmanuel 20201218752
